@@ -4,7 +4,7 @@ DB_NAME="users"
 
 date=$(date '+%Y-%d-%m')
 
-# Create an array of tables
+# Create an array of tables names
 TABLES=("customers" "employee" "offices" "offices" "orderdetails"
 "orders" "payments" "productlines" "products")
 
